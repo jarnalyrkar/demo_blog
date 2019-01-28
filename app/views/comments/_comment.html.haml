@@ -1,0 +1,4 @@
+%p
+	%strong= comment.name
+	= comment.comment
+	= link_to t('default.delete'), [comment.post, comment], method: :delete, class: "btn btn-danger", data: { confirm: "Are you sure?" }

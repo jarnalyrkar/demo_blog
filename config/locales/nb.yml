@@ -8,9 +8,17 @@ nb:
     content: "Innhold"
     home: "Hjem"
     overview: "Oversikt"
+    name: "Navn"
+    comment: "Kommentar"
+
   post:
     create_new_post: "Opprett Ny Post"
     new_post: "Ny Post"
+    comment:
+      comment:
+        one: "%{count} kommentar"
+        other: "%{count} kommentarer"
+      leave_a_reply: "Skriv en kommentar"
   activerecord:
     errors:
       messages:
