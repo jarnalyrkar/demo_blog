@@ -14,11 +14,13 @@ nb:
   post:
     create_new_post: "Opprett Ny Post"
     new_post: "Ny Post"
+    no_posts: "Ingen Poster"
     comment:
       comment:
         one: "%{count} kommentar"
         other: "%{count} kommentarer"
       leave_a_reply: "Skriv en kommentar"
+
   activerecord:
     errors:
       messages:

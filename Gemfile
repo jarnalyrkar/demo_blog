@@ -34,7 +34,9 @@ gem 'minitest-reporters'
 gem 'rails-controller-testing'
 gem 'autoprefixer-rails'
 gem 'bootstrap', '~> 4.2', '>= 4.2.1'
-# Use ActiveStorage variant
+gem 'devise'
+
+#Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
 # Use Capistrano for deployment

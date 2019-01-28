@@ -1,1 +1,14 @@
 en:
+  default:
+    name: "Name"
+    title: "Title"
+    content: "Content"
+    comment: "Comment"
+  post:
+    create_new_post: "Create New Post"
+    new_post: "New Post"
+    comment:
+      comment:
+        zero: "No comments"
+        one: "%{count} comment"
+        other: "%{count} comments"
